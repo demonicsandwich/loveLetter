@@ -1,3 +1,5 @@
+#i really need to comment this lol
+
 import pygame
 from random import shuffle
 pygame.font.init()
